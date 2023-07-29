@@ -1,5 +1,8 @@
-body,
-html {
+body {
+    /* background-position: center; */
+    /* background-repeat: no-repeat; */
+    background-size: cover;
+    background-image: url("../images/background.png");
     height: 100%;
     margin: 0;
     font-family: 'Poppins';
